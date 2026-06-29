@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR3ef018/jc/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷二卷二
+  hash: sha256:645696f0ae454f929d5a61b9cf5b0a116a4e5c036b80f50cf08f6de30007eaee
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ef018_jc_002-d6.h1s1}
+  - {type: 'tls:head', offset: 2, content: '', id: KR3ef018_jc_002-d7.h1s1}
+metadata:
+  title: 傷寒論輯義
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef018.xml
+hash: sha256:9c78783aaea456cfac884610b00b2ce918d33777808e2d3e232c897d5e88780d
